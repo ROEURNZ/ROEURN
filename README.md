@@ -1,3 +1,12 @@
+Hi there 👋, I am Krushnat Khavale
+Linkedin Badge Stackoverflow Badge Gmail Badge Open Source Love Awesome
+
+🔭 I’m currently working on server side Java technologies.
+🌱 I’m currently learning natural language processing.
+Languages and Tools:          
+
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats
+
 # ROEURN
 
 👋 Hello there! I'm Roeurn, a passionate second-year student diving into the world of web programming.
