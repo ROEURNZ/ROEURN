@@ -41,4 +41,4 @@ Connect with me:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=roeurnkaki&repo=github-readme-stats)](https://github.com/roeurnkaki/github-readme-stats)
 ![Roeurn's github stats](https://github-readme-stats.vercel.app/api?username=roeurnkaki&theme=buefy&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roeurnkaki)](https://github.com/roeurnkaki/github-readme-stats)
+[![Top Langs](https://github-readme-stats.ver?username=roeurnkaki)](https://github.com/roeurnkaki/github-readme-stats)
