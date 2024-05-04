@@ -40,5 +40,5 @@ Connect with me:
 📫 Let's collaborate! Whether you're a fellow developer, a mentor, or someone with a cool project idea, I'd love to hear from you. Let's build something amazing together! Reach out to me here on GitHub or connect with me on telegram ROEURN✨.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=roeurnkaki&repo=github-readme-stats)](https://github.com/roeurnkaki/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=roeurnkaki&theme=buefy&show_icons=true)
+![Roeurn's github stats](https://github-readme-stats.vercel.app/api?username=roeurnkaki&theme=buefy&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roeurnkaki)](https://github.com/roeurnkaki/github-readme-stats)
