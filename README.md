@@ -1,13 +1,18 @@
-Hi there 👋, I am Krushnat Khavale
-Linkedin Badge Stackoverflow Badge Gmail Badge Open Source Love Awesome
-
-🔭 I’m currently working on server side Java technologies.
-🌱 I’m currently learning natural language processing.
-Languages and Tools:          
-
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats
 
 # ROEURN
+
+👋 Hey there! I'm [Your Name], a passionate student diving headfirst into the exciting world of web programming.
+
+💻 Currently immersed in my studies, I'm eager to absorb as much knowledge as possible and apply it to create innovative web solutions.
+
+🌟 **Let's learn together!** Whether you're a fellow student, an experienced developer, or anyone with a curiosity for web programming, I'd love to connect and share insights. Let's collaborate, exchange ideas, and embark on this exciting journey of learning and growth.
+
+Connect with me:
+[![Linkedin Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YourName/)](https://www.linkedin.com/in/YourName/)
+[![Stack Overflow Badge](https://img.shields.io/badge/-YourName-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/YourUserID/YourName)](https://stackoverflow.com/users/YourUserID/YourName)
+[![Gmail Badge](https://img.shields.io/badge/-YourName-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youremail@example.com)](mailto:youremail@example.com)
+[![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=flat-square)](#)
+[![Awesome](https://img.shields.io/badge/-Awesome-green?style=flat-square)](#)
 
 👋 Hello there! I'm Roeurn, a passionate second-year student diving into the world of web programming.
 
