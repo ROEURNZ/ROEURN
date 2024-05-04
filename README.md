@@ -1,14 +1,10 @@
 
 # ROEURN
 
-👋 Hey there! I'm [Your Name], a passionate student diving headfirst into the exciting world of web programming.
-
-💻 Currently immersed in my studies, I'm eager to absorb as much knowledge as possible and apply it to create innovative web solutions.
-
-🌟 **Let's learn together!** Whether you're a fellow student, an experienced developer, or anyone with a curiosity for web programming, I'd love to connect and share insights. Let's collaborate, exchange ideas, and embark on this exciting journey of learning and growth.
 
 Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YourName/)](https://www.linkedin.com/in/YourName/)
+[![Linkedin Badge](https://img.shields.io/badge/-Roeurn%20Kaki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roeurnkaki/)](https://www.linkedin.com/in/roeurnkaki/)
+
 [![Stack Overflow Badge](https://img.shields.io/badge/-YourName-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/YourUserID/YourName)](https://stackoverflow.com/users/YourUserID/YourName)
 [![Gmail Badge](https://img.shields.io/badge/-YourName-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youremail@example.com)](mailto:youremail@example.com)
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=flat-square)](#)
