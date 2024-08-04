@@ -22,9 +22,9 @@ Connect with me:
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=flat-square)](#)
 [![Awesome](https://img.shields.io/badge/-Awesome-green?style=flat-square)](#)
 
-👋 Hello there! I'm Roeurn, a passionate second-year student diving into the world of web programming.
+👋 Hello there! I'm Roeurn, a passionate web developer diving into the world of web programming.
 
-💻 Currently pursuing my degree in web programming, I'm fascinated by the endless possibilities of creating interactive and user-friendly websites and applications.
+💻 I'm fascinated by the endless possibilities of creating interactive and user-friendly websites and applications.
 
 🌱 As a lifelong learner, I'm constantly exploring new technologies and frameworks to expand my skill set and stay up-to-date with the latest trends in the ever-evolving field of web development.
 
