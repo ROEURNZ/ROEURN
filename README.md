@@ -1,10 +1,22 @@
-
 # ROEURN
 
+```
+ ____        _____       ______     _   _      ____       _   _ 
+|  _  \     / ___  \    |  ____|   | | | |    |  _  \    | \ | |
+| |_)  |   | /   \  |   | |____    | | | |    | |_)  |   |  \| |
+|  _ <     | |   |  |   |  ____|   | | | |    |  _ <     | . ` |
+| |  ) )   | \___/  |   | |____    | |_| |    | |  ) )   | |\  |
+|_/  |_|    \_____ /    |______|    \___/     |_/  |_|   |_| \_|
+
+```
 
 Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-Roeurn%20Kaki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roeurnkaki/)](https://www.linkedin.com/in/roeurnkaki/)
 
+```
+
+```
+
+[![Linkedin Badge](https://img.shields.io/badge/-Roeurn%20Kaki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roeurnkaki/)](https://www.linkedin.com/in/roeurnkaki/)
 [![Stack Overflow Badge](https://img.shields.io/badge/-YourName-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/YourUserID/YourName)](https://stackoverflow.com/users/YourUserID/YourName)
 [![Gmail Badge](https://img.shields.io/badge/-YourName-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youremail@example.com)](mailto:youremail@example.com)
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=flat-square)](#)
@@ -27,8 +39,9 @@ Connect with me:
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-v11.0-red?style=flat-square&logo=laravel&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-orange?style=flat-square&logo=ubuntu&logoColor=white)
 ![OOP](https://img.shields.io/badge/-OOP-4F5D95?style=flat-square&logo=oop&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -36,9 +49,10 @@ Connect with me:
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
+```
+
+```
 
 📫 Let's collaborate! Whether you're a fellow developer, a mentor, or someone with a cool project idea, I'd love to hear from you. Let's build something amazing together! Reach out to me here on GitHub or connect with me on telegram ROEURN✨.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=roeurnkaki&repo=github-readme-stats)](https://github.com/roeurnkaki/github-readme-stats)
 ![Roeurn's github stats](https://github-readme-stats.vercel.app/api?username=roeurnkaki&theme=buefy&show_icons=true)
-[![Top Langs](https://github-readme-stats.ver?username=roeurnkaki)](https://github.com/roeurnkaki/github-readme-stats)
